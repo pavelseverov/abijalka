@@ -1,0 +1,19 @@
+{
+  "name": "abijalka",
+  "version": "1.0.0",
+  "description": "app created for education purpose",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelseverov/abijalka.git"
+  },
+  "author": "Pavel Severov & Olga Severova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavelseverov/abijalka/issues"
+  },
+  "homepage": "https://github.com/pavelseverov/abijalka#readme"
+}
